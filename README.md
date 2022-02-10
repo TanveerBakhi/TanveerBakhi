@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanveerBakhi
 - 👀 I’m interested in ...web development and app development 
-- 🌱 I’m currently learning ...c++ and java
+- 🌱 I’m currently learning ...c++ 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...through my email 
 
